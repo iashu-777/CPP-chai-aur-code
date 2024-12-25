@@ -8,5 +8,5 @@ int main(){
     };
     //square bracket tells that it is a lambda function
 preparedChai(4);
-    return 0;
+    return 1;
 }
